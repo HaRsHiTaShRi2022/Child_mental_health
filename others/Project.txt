@@ -1,0 +1,67 @@
+Project Review 1
+
+GAPS:
+> there datasets for the children
+> no stress monitoring and depression control for the parents for there offspring's
+> conversational support for the children
+> only general purpose monitoring in smart-watches
+
+DATA:
+> Kaggle - Student dataset for depression [ for model ]
+> LEMON - fmri, heart-rate, respiration, blood-pressure depression [ for model ]
+> MODMA - EEG, Depression diagnosis [ for model ]
+> DAIC-WOZ - depression detection [ for chat-bot ]
+> Reddit Mental health [ for chat-bot ]
+> Counselling dataset [ for chat-bot ]
+
+CHATBOT:
+> provide the support to the children
+> generate the report and send to parents
+> guide the children
+> generate the alerts to parents for any inappropriate things
+
+ROADMAP:
+> train model on the adult dataset
+> give quiz/game to the children and monitor there data
+> adjust the model and app
+> provide the support to the children and report to the parents using the chatbot
+> continues monitoring of the children's using the watch and send alert to parents
+
+ARTIFICIAL Situation:
+> game or the questions to trigger anxiety so that we can measure the heart-rate and if possible brain signals
+> two quizzes for each round
+> music and visuals for relaxing the children's
+
+LIMITATIONS:
+> we don't have the way to extract the brain dataset
+> we have no way to extract data from the watch
+
+PRECAUTIONS:
+> do not add something which children can't answer
+> do add something children's cant see
+> do add the negative feedback
+
+DATA-COLLECTION:
+> form as per the dataset used
+> for heartrate 3 session in round of 2
+	1 first with normal situations
+	2.second with artificial relaxing situation (with music and visuals)
+	3.third with artificial stress situation (with copyright free music and quiz)
+> Self-report how they feel after each round and session
+
+DELIVERABLE:
+> 2 ML model trained on adult data
+	1. Trained on text data
+	2. Trained on the heart and brain data
+> Chatbot
+	> Emotional support for children's 
+	> monitoring and alerting parents
+> Data-collector for personalizing for a particular child
+> App to monitor the child for parents
+
+FUTURE:
+> dataset for children that can be used for the further enhancement
+> wearable device for the children so that parents can monitor there mental health containing the chatbot for support
+> app and web support
+> paper
+
